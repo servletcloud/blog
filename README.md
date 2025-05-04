@@ -1,2 +1,2 @@
-# vlad.github.io
+# Blog
 Vlad's Blog
